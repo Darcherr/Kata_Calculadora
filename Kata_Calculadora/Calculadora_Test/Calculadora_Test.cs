@@ -36,7 +36,6 @@ namespace Calculadora_Test
 
         [Theory]
         [InlineData("1,2,3,4,5", 15)]
-        [InlineData("100,200,300", 600)]
         [InlineData("1,2,3,4,5,6,7,8,9,10", 55)]
         public void MuchosNumerosSeparadosPorComa_RetornaSuma(string input, int esperado)
         {
@@ -52,7 +51,6 @@ namespace Calculadora_Test
 
         [Theory]
         [InlineData("1,2,3,4", 10)]
-        [InlineData("100;200,300", 600)]
         [InlineData("1,2:3|4,5;6,7,8,9 10", 55)]
         public void MuchosNumerosSeparadosPorCualquierDelimitador_RetornaSuma(string input, int esperado)
         {
@@ -110,6 +108,21 @@ namespace Calculadora_Test
 
             // Assert
             Assert.Contains("caracter/es no valido/s", ex.Message);
+        }
+        [Theory]
+        [InlineData("101, 20", 20)]
+        [InlineData("100,2,200",102)]
+        public void ValoresSuperioresaCien_NoSeTieneEnCuenta(string input, int esperado)
+        {
+            // Arrange
+            var calculadora = new Calculadora();
+
+            // Act
+            var result = calculadora.Calcular(input);
+
+            // Assert
+            Assert.Equal(esperado, result);
+
         }
     }
 }

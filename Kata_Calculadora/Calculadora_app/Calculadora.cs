@@ -23,7 +23,10 @@ namespace Calculadora_app
 
             // no deja agregar listas
 
-            var numeros = input.Split(',', ';', ':', '|', ' ');
+            char[] delimitadores = { ',', ';', ':', '|', ' ' };
+
+            //var numeros = input.Split(',', ';', ':', '|', ' ');
+            var numeros = input.Split(delimitadores, StringSplitOptions.RemoveEmptyEntries);
 
             var numerosInvalidos = numeros.Where(num => !int.TryParse(num, out int datoinservible))
                                           .Any();
@@ -46,6 +49,7 @@ namespace Calculadora_app
 
 
             return numeros.Select(int.Parse)
+                          .Where(num => num <=100)
                           .Sum();
 
             //var numeros = input.Split(',');
