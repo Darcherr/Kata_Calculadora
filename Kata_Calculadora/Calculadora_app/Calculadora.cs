@@ -21,7 +21,7 @@ namespace Calculadora_app
             //delimitadores.Add(' ');
             //delimitadores.Add('|');
 
-            //En linQ no deja agregar listas
+            // no deja agregar listas
 
             var numeros = input.Split(',', ';', ':', '|', ' ');
 

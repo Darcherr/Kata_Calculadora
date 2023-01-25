@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wCYCyv0AaVepL+VersHo+zVA3G0/Y4xjtjdEpDDfbpfjTQZDGRhtg0iKPGokwFIZpGo/xeJkR8dtNkYtAZNk3g==",
+  "dgSpecHash": "es6D5QOL5WQ/75ZUilJp1bpptpeb5qKwJ8cuuv3k34XmqJXsFCRVfyFwV3XOT1HiorivNG5UWfcpBwbq1O/K4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lauma\\OneDrive\\Documentos\\Cubits\\Kata_Calculadora\\Kata_Calculadora\\Calculadora_Test\\Calculadora_Test.csproj",
+  "projectFilePath": "C:\\Users\\Lauma\\OneDrive\\Documentos\\ProyectosKata\\Kata_Calculator\\Kata_Calculadora\\Kata_Calculadora\\Calculadora_Test\\Calculadora_Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lauma\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Lauma\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

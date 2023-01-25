@@ -6,3 +6,11 @@ C:\Users\Lauma\OneDrive\Documentos\Cubits\Kata_Calculadora\Kata_Calculadora\Calc
 C:\Users\Lauma\OneDrive\Documentos\Cubits\Kata_Calculadora\Kata_Calculadora\Calculadora_app\obj\Debug\Calculadora_app.csproj.CoreCompileInputs.cache
 C:\Users\Lauma\OneDrive\Documentos\Cubits\Kata_Calculadora\Kata_Calculadora\Calculadora_app\obj\Debug\Calculadora_app.exe
 C:\Users\Lauma\OneDrive\Documentos\Cubits\Kata_Calculadora\Kata_Calculadora\Calculadora_app\obj\Debug\Calculadora_app.pdb
+C:\Users\Lauma\OneDrive\Documentos\ProyectosKata\Kata_Calculator\Kata_Calculadora\Kata_Calculadora\Calculadora_app\bin\Debug\Calculadora_app.exe.config
+C:\Users\Lauma\OneDrive\Documentos\ProyectosKata\Kata_Calculator\Kata_Calculadora\Kata_Calculadora\Calculadora_app\bin\Debug\Calculadora_app.exe
+C:\Users\Lauma\OneDrive\Documentos\ProyectosKata\Kata_Calculator\Kata_Calculadora\Kata_Calculadora\Calculadora_app\bin\Debug\Calculadora_app.pdb
+C:\Users\Lauma\OneDrive\Documentos\ProyectosKata\Kata_Calculator\Kata_Calculadora\Kata_Calculadora\Calculadora_app\obj\Debug\Calculadora_app.csproj.AssemblyReference.cache
+C:\Users\Lauma\OneDrive\Documentos\ProyectosKata\Kata_Calculator\Kata_Calculadora\Kata_Calculadora\Calculadora_app\obj\Debug\Calculadora_app.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lauma\OneDrive\Documentos\ProyectosKata\Kata_Calculator\Kata_Calculadora\Kata_Calculadora\Calculadora_app\obj\Debug\Calculadora_app.csproj.CoreCompileInputs.cache
+C:\Users\Lauma\OneDrive\Documentos\ProyectosKata\Kata_Calculator\Kata_Calculadora\Kata_Calculadora\Calculadora_app\obj\Debug\Calculadora_app.exe
+C:\Users\Lauma\OneDrive\Documentos\ProyectosKata\Kata_Calculator\Kata_Calculadora\Kata_Calculadora\Calculadora_app\obj\Debug\Calculadora_app.pdb
